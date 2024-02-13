@@ -69,5 +69,7 @@ public class HomeController {
 		logger.debug(" 2. DAO 객체 생성 ");
 		
 		logger.debug(" 3. mapper 호출 ");
+		
+		logger.debug(" 4. Test 실행 ");
 	}
 }
